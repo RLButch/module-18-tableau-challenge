@@ -3,7 +3,7 @@
 ![image](https://github.com/RLButch/module-18-tableau-challenge/assets/122842203/c97c2143-0879-4f1e-981a-826af133f5e8)
 
 Aim: to identify two unexpected phenomena through the aggregation of the data found in the Citi Bike Trip History Logs and tableau visualisations.
-I wanted to investigate where the most popular start and stop stations are and what the difference between bike usage is for each gender (male, female)   
+I wanted to investigate where the most popular start and stop stations are and what the difference between bike usage is for each gender (male, female) and usertype  
 
 Resources:  
 Python, juypter notebook, tableau,     
@@ -17,3 +17,7 @@ Methodology:
 4). Created 2 dashboards, one looking at the citibike start station and another looking at use by gender.    
 
 Tableau public dashboards and visualations can be viewed at this url: 
+Dashboard 1: start station info: https://public.tableau.com/app/profile/rebecca.butcher/viz/tableauchallenge_16895922869670/Dashboard1?publish=yes    
+Dashboard 2: end station info: https://public.tableau.com/app/profile/rebecca.butcher/viz/tableauchallenge_16895922869670/Dashboard2?publish=yes    
+
+
