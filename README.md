@@ -4,6 +4,11 @@
 
 Aim: to identify two unexpected phenomena through the aggregation of the data found in the Citi Bike Trip History Logs and tableau visualisations.
 
+Resources:  
+Python, juypter notebook, tableau,     
+Data Source: Citi Bike System Data page  
+Assistance: tableau class exercises, tableau online manual, tutorial sessions    
+
 Methodology:     
 1). Download 3 CSV files from the citibike website, I chose Dec 2019, Jan 2020 and Feb 2020    
 2). I used Pandas in vsc to merge the files and change the time to datetime, then resave the file as one csv    
