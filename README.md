@@ -17,8 +17,8 @@ Methodology:
 4). Created 2 dashboards, one looking at the citibike start station and another looking at use by gender.    
 
 Tableau public dashboards and visualations can be viewed at this url: 
-Dashboard 1: start station info: https://public.tableau.com/app/profile/rebecca.butcher/viz/tableauchallenge_16895922869670/Dashboard1?publish=yes    
-Dashboard 2: end station info: https://public.tableau.com/app/profile/rebecca.butcher/viz/tableauchallenge_16895922869670/Dashboard2?publish=yes    
+Story (dashboard) 1: start station info: (https://public.tableau.com/app/profile/rebecca.butcher/viz/tableauchallenge_16895922869670/Story1?publish=yes)  
+Story (Dashboard) 2: end station info: https://public.tableau.com/app/profile/rebecca.butcher/viz/tableauchallenge_16895922869670/Dashboard2?publish=yes  
 tableau profile: https://public.tableau.com/app/profile/rebecca.butcher/viz/tableauchallenge_16895922869670/Story2?publish=yes  
 
 
